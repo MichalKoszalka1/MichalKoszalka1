@@ -1,11 +1,15 @@
-### Hi there 👋
+### Hi there 👋!I am Michał
+
+My development toolbelt:
+![image](https://github.com/MichalKoszalka1/MichalKoszalka1/assets/130557912/65a0dddf-2fd3-44df-9a6e-23fcd881fe11)
+
 
 <!--
 **MichalKoszalka1/MichalKoszalka1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
