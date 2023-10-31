@@ -1,3 +1,6 @@
+
+![Profile](https://github.com/MichalKoszalka1/MichalKoszalka1/assets/130557912/75efa7be-0ed9-482b-a854-6af91ff6ebf1)
+
 ### Hi there 👋!I am Michał
  
 
