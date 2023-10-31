@@ -1,4 +1,4 @@
-![ddd](https://github.com/MichalKoszalka1/MichalKoszalka1/assets/130557912/9e99d17a-d978-4e84-9d1e-a0aa9a774b19)
+
 ### Hi there 👋!I am Michał
 <!--
 **MichalKoszalka1/MichalKoszalka1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
