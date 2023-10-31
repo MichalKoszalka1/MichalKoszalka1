@@ -1,5 +1,5 @@
 
-![Profile](https://github.com/MichalKoszalka1/MichalKoszalka1/assets/130557912/75efa7be-0ed9-482b-a854-6af91ff6ebf1)
+![ddd](https://github.com/MichalKoszalka1/MichalKoszalka1/assets/130557912/9e99d17a-d978-4e84-9d1e-a0aa9a774b19)
 
 ### Hi there 👋!I am Michał
  
