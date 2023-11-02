@@ -8,7 +8,7 @@ I'm Michał from Poland and I became interested in programming when I was in a t
 Skills: SPRING-BOOT/JAVA/MAVEN/MYSQL/GIT/HTML/CSS
 
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/micha%c5%82-kosza%c5%82ka-28591b299" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/micha%c5%82-kosza%c5%82ka-28591b299" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/in/micha%c5%82-kosza%c5%82ka-28591b299" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/micha%c5%82-kosza%c5%82ka-28591b299" height="30" width="40" /></a>
 </p>
 
 
