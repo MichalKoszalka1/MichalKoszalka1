@@ -7,6 +7,6 @@ I'm Michał from Poland and I became interested in programming when I was in a t
 
 Skills: SPRING-BOOT/JAVA/MAVEN/MYSQL/GIT/HTML/CSS
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>]([https://www.linkedin.com/in/micha%C5%82-kosza%C5%82ka-28591b299))  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>]([https://www.linkedin.com/in/micha%C5%82-kosza%C5%82ka-28591b299)  
 
 
