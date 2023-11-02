@@ -12,4 +12,7 @@ Skills: SPRING-BOOT/JAVA/MAVEN/MYSQL/GIT/HTML/CSS
     icon_pack = "fa"
     link = "https://www.linkedin.com/in/micha%C5%82-kosza%C5%82ka-28591b299/"
 
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/micha%c5%82-kosza%c5%82ka-28591b299/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/micha%c5%82-kosza%c5%82ka-28591b299/" height="30" width="40" /></a>
+</p>
 
