@@ -12,5 +12,9 @@ I'm Michał from Poland and I became interested in programming when I was in a t
 <a href="https://www.linkedin.com/in/micha%C5%82-kosza%C5%82ka-28591b299/" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/micha%c5%82-kosza%c5%82ka-28591b299/" height="30" width="40" /></a> 
   <br>  <br>
 <i class="bx bxs-envelope"></i>></box-icon>mkoszalka0@gmail.com</p>
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/micha%c5%82-kosza%c5%82ka-28591b299/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/micha%c5%82-kosza%c5%82ka-28591b299/" height="30" width="40" /></a>
+<a href="https://medium.com/f" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="f" height="30" width="40" /></a>
+</p>
 
