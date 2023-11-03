@@ -10,6 +10,7 @@ I'm Michał from Poland and I became interested in programming when I was in a t
 <h3 class="container" align="left">📫 How to reach me:</h3> 
 <p align="left">
 -<a href="https://www.linkedin.com/in/micha%C5%82-kosza%C5%82ka-28591b299/" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/micha%c5%82-kosza%c5%82ka-28591b299/" height="30" width="40" /></a> 
+  <br>
 - mkoszalka0@gmail.com</p>
 
 
