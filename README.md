@@ -13,5 +13,5 @@ I'm Michał from Poland and I became interested in programming when I was in a t
 <a href="mailto:mkoszalka0@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="f" height="30" width="40" /></a>
 </p>
 
-<img src="https://github.com/MichalKoszalka1/adriantwarog/raw/master/freeCodeCamp.jpg" alt="Design and Development" style="max-width: 100%;">
+<img src="https://github.com/MichalKoszalka1/MichalKoszalka1/raw/master/freeCodeCamp.jpg" alt="Design and Development" style="max-width: 100%;">
 
