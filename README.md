@@ -1,8 +1,7 @@
 
 ### Hi there 👋, my name is Michał
 #### Web Developer And Designer
-![Web Developer And Designer](https://avatars.githubusercontent.com/u/130557912?v=4)
-
+<img src="https://i.pinimg.com/originals/f4/7f/d8/f47fd896add554744b4114d964b61b41.gif" width="600" height="400">
 I'm Michał from Poland and I became interested in programming when I was in a technical class, where I created my first websites for my passion. Today, I am a person focused on developing my interests, I really enjoy learning about new technologies, solutions and learning about new website styles.
 
 <h3 class="container" align="left">Languages and Tools:</h3>
@@ -13,5 +12,4 @@ I'm Michał from Poland and I became interested in programming when I was in a t
 <a href="mailto:mkoszalka0@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="f" height="30" width="40" /></a>
 </p>
 
-<img src="https://github.com/MichalKoszalka1/MichalKoszalka1/raw/master/freeCodeCamp.jpg" alt="Design and Development" style="max-width: 100%;">
 
