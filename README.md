@@ -12,4 +12,5 @@ I'm Michał from Poland and I became interested in programming when I was in a t
 <a href="https://www.linkedin.com/in/micha%C5%82-kosza%C5%82ka-28591b299/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/micha%c5%82-kosza%c5%82ka-28591b299/" height="30" width="40" /></a>
 <a href="mailto:mkoszalka0@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="f" height="30" width="40" /></a>
 </p>
+<img src="https://github.com/adriantwarog/MichalKoszalka1/raw/master/freeCodeCamp.jpg" alt="Design and Development" style="max-width: 100%;">
 
